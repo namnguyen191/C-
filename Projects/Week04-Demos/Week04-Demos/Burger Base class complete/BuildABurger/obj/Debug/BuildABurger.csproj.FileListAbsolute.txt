@@ -1,0 +1,37 @@
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\bin\Debug\BuildABurger.exe.config
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\bin\Debug\BuildABurger.exe
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\bin\Debug\BuildABurger.pdb
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.csprojResolveAssemblyReference.cache
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.frmBurger.resources
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.Properties.Resources.resources
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.csproj.GenerateResource.Cache
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.exe
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.pdb
+C:\Users\Navpreet\Desktop\Burger Base Class Complete\BuildABurger\bin\Debug\BuildABurger.exe.config
+C:\Users\Navpreet\Desktop\Burger Base Class Complete\BuildABurger\obj\Debug\BuildABurger.exe
+C:\Users\Navpreet\Desktop\Burger Base Class Complete\BuildABurger\obj\Debug\BuildABurger.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week04\Week04-Demos\Burger\BuildABurger\bin\Debug\BuildABurger.exe.config
+D:\Humber\CPAN C#\Learning_Materials_Storage\week04\Week04-Demos\Burger\BuildABurger\obj\Debug\BuildABurger.exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week04\Week04-Demos\Burger\BuildABurger\obj\Debug\BuildABurger.pdb
+C:\Users\Amrit\Desktop\Burger\BuildABurger\bin\Debug\BuildABurger.exe.config
+C:\Users\Amrit\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.exe
+C:\Users\Amrit\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.pdb
+C:\Users\Amrit\Desktop\Burger\BuildABurger\bin\Debug\BuildABurger.exe
+C:\Users\Amrit\Desktop\Burger\BuildABurger\bin\Debug\BuildABurger.pdb
+C:\Users\Amrit\Desktop\Burger\BuildABurger\bin\Debug\BurgerClasses.dll
+C:\Users\Amrit\Desktop\Burger\BuildABurger\bin\Debug\BurgerClasses.pdb
+C:\Users\Amrit\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.csprojResolveAssemblyReference.cache
+C:\Users\Amrit\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.frmBurger.resources
+C:\Users\Amrit\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.Properties.Resources.resources
+C:\Users\Amrit\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.csproj.GenerateResource.Cache
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger Base class complete\BuildABurger\bin\Debug\BuildABurger.exe.config
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger Base class complete\BuildABurger\obj\Debug\BuildABurger.exe
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger Base class complete\BuildABurger\obj\Debug\BuildABurger.pdb
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger Base class complete\BuildABurger\bin\Debug\BuildABurger.exe
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger Base class complete\BuildABurger\bin\Debug\BuildABurger.pdb
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger Base class complete\BuildABurger\bin\Debug\BurgerClasses.dll
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger Base class complete\BuildABurger\bin\Debug\BurgerClasses.pdb
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger Base class complete\BuildABurger\obj\Debug\BuildABurger.csprojResolveAssemblyReference.cache
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger Base class complete\BuildABurger\obj\Debug\BuildABurger.frmBurger.resources
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger Base class complete\BuildABurger\obj\Debug\BuildABurger.Properties.Resources.resources
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger Base class complete\BuildABurger\obj\Debug\BuildABurger.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger\BurgerClasses\bin\Debug\BurgerClasses.dll
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger\BurgerClasses\bin\Debug\BurgerClasses.pdb
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger\BurgerClasses\obj\Debug\BurgerClasses.csprojResolveAssemblyReference.cache
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger\BurgerClasses\obj\Debug\BurgerClasses.dll
+E:\Humber\Frame Work\Projects\Week04-Demos\Week04-Demos\Burger\BurgerClasses\obj\Debug\BurgerClasses.pdb

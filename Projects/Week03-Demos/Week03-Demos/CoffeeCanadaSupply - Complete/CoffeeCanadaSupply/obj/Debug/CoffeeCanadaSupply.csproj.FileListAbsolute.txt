@@ -1,0 +1,27 @@
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.exe.config
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.exe
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.pdb
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.csprojResolveAssemblyReference.cache
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.Properties.Resources.resources
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.csproj.GenerateResource.Cache
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.exe
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.pdb
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.frmCoffeeSupply.resources
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.exe.config
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.exe
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week03\Week03-Demos\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.exe.config
+D:\Humber\CPAN C#\Learning_Materials_Storage\week03\Week03-Demos\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week03\Week03-Demos\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.pdb
+D:\Humber\Frame Work\Projects\Week03-Demos\Week03-Demos\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.exe.config
+D:\Humber\Frame Work\Projects\Week03-Demos\Week03-Demos\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.exe
+D:\Humber\Frame Work\Projects\Week03-Demos\Week03-Demos\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.pdb
+D:\Humber\Frame Work\Projects\Week03-Demos\Week03-Demos\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.exe
+D:\Humber\Frame Work\Projects\Week03-Demos\Week03-Demos\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.pdb
+D:\Humber\Frame Work\Projects\Week03-Demos\Week03-Demos\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.csprojResolveAssemblyReference.cache
+D:\Humber\Frame Work\Projects\Week03-Demos\Week03-Demos\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.frmCoffeeSupply.resources
+D:\Humber\Frame Work\Projects\Week03-Demos\Week03-Demos\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.Properties.Resources.resources
+D:\Humber\Frame Work\Projects\Week03-Demos\Week03-Demos\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.csproj.GenerateResource.Cache
+E:\Humber\Frame Work\Projects\Week03-Demos\Week03-Demos\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.exe.config
+E:\Humber\Frame Work\Projects\Week03-Demos\Week03-Demos\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.exe
+E:\Humber\Frame Work\Projects\Week03-Demos\Week03-Demos\CoffeeCanadaSupply - Complete\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.pdb

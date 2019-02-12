@@ -1,0 +1,18 @@
+C:\Users\Navpreet\Desktop\MouseMove\MouseMove\bin\Debug\MouseMove.exe.config
+C:\Users\Navpreet\Desktop\MouseMove\MouseMove\bin\Debug\MouseMove.exe
+C:\Users\Navpreet\Desktop\MouseMove\MouseMove\bin\Debug\MouseMove.pdb
+C:\Users\Navpreet\Desktop\MouseMove\MouseMove\obj\Debug\MouseMove.csprojResolveAssemblyReference.cache
+C:\Users\Navpreet\Desktop\MouseMove\MouseMove\obj\Debug\MouseMove.frmMouseMove.resources
+C:\Users\Navpreet\Desktop\MouseMove\MouseMove\obj\Debug\MouseMove.Properties.Resources.resources
+C:\Users\Navpreet\Desktop\MouseMove\MouseMove\obj\Debug\MouseMove.csproj.GenerateResource.Cache
+C:\Users\Navpreet\Desktop\MouseMove\MouseMove\obj\Debug\MouseMove.exe
+C:\Users\Navpreet\Desktop\MouseMove\MouseMove\obj\Debug\MouseMove.pdb
+D:\Humber\Frame Work\Week02-Demos\Week02-Demos\MouseMove\MouseMove\bin\Debug\MouseMove.exe.config
+D:\Humber\Frame Work\Week02-Demos\Week02-Demos\MouseMove\MouseMove\obj\Debug\MouseMove.exe
+D:\Humber\Frame Work\Week02-Demos\Week02-Demos\MouseMove\MouseMove\obj\Debug\MouseMove.pdb
+D:\Humber\Frame Work\Week02-Demos\Week02-Demos\MouseMove\MouseMove\bin\Debug\MouseMove.exe
+D:\Humber\Frame Work\Week02-Demos\Week02-Demos\MouseMove\MouseMove\bin\Debug\MouseMove.pdb
+D:\Humber\Frame Work\Week02-Demos\Week02-Demos\MouseMove\MouseMove\obj\Debug\MouseMove.csprojResolveAssemblyReference.cache
+D:\Humber\Frame Work\Week02-Demos\Week02-Demos\MouseMove\MouseMove\obj\Debug\MouseMove.frmMouseMove.resources
+D:\Humber\Frame Work\Week02-Demos\Week02-Demos\MouseMove\MouseMove\obj\Debug\MouseMove.Properties.Resources.resources
+D:\Humber\Frame Work\Week02-Demos\Week02-Demos\MouseMove\MouseMove\obj\Debug\MouseMove.csproj.GenerateResource.Cache

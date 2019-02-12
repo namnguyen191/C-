@@ -1,0 +1,30 @@
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.exe.config
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.exe
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.pdb
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.csprojResolveAssemblyReference.cache
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.Properties.Resources.resources
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.csproj.GenerateResource.Cache
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.exe
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.pdb
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.frmCoffeeSupply.resources
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply - TextBox\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.exe.config
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply - TextBox\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.exe
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply - TextBox\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.pdb
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply - TextBox\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.exe
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply - TextBox\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.pdb
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply - TextBox\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.csprojResolveAssemblyReference.cache
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply - TextBox\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.frmCoffeeSupply.resources
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply - TextBox\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.Properties.Resources.resources
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply - TextBox\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.csproj.GenerateResource.Cache
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply - Complete - Double.TryParse\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.exe.config
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply - Complete - Double.TryParse\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.exe
+C:\Users\Navpreet\Desktop\CoffeeCanadaSupply - Complete - Double.TryParse\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week03\Week03-Demos\CoffeeCanadaSupply - Complete (Double.TryParse)\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.exe.config
+D:\Humber\CPAN C#\Learning_Materials_Storage\week03\Week03-Demos\CoffeeCanadaSupply - Complete (Double.TryParse)\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week03\Week03-Demos\CoffeeCanadaSupply - Complete (Double.TryParse)\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week03\Week03-Demos\CoffeeCanadaSupply - Complete (Double.TryParse)\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week03\Week03-Demos\CoffeeCanadaSupply - Complete (Double.TryParse)\CoffeeCanadaSupply\bin\Debug\CoffeeCanadaSupply.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week03\Week03-Demos\CoffeeCanadaSupply - Complete (Double.TryParse)\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.csprojResolveAssemblyReference.cache
+D:\Humber\CPAN C#\Learning_Materials_Storage\week03\Week03-Demos\CoffeeCanadaSupply - Complete (Double.TryParse)\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.frmCoffeeSupply.resources
+D:\Humber\CPAN C#\Learning_Materials_Storage\week03\Week03-Demos\CoffeeCanadaSupply - Complete (Double.TryParse)\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.Properties.Resources.resources
+D:\Humber\CPAN C#\Learning_Materials_Storage\week03\Week03-Demos\CoffeeCanadaSupply - Complete (Double.TryParse)\CoffeeCanadaSupply\obj\Debug\CoffeeCanadaSupply.csproj.GenerateResource.Cache

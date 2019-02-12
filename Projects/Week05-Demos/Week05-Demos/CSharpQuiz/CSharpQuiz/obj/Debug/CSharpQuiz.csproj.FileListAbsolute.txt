@@ -1,0 +1,16 @@
+C:\CPAN223W14\Learning Materials\week05\CSharpQuiz\CSharpQuiz\bin\Debug\CSharpQuiz.exe.config
+C:\CPAN223W14\Learning Materials\week05\CSharpQuiz\CSharpQuiz\obj\Debug\CSharpQuiz.Properties.Resources.resources
+C:\CPAN223W14\Learning Materials\week05\CSharpQuiz\CSharpQuiz\obj\Debug\CSharpQuiz.csproj.GenerateResource.Cache
+D:\Humber\CPAN C#\Learning_Materials_Storage\week05\CSharpQuiz\CSharpQuiz\bin\Debug\CSharpQuiz.exe.config
+D:\Humber\CPAN C#\Learning_Materials_Storage\week05\CSharpQuiz\CSharpQuiz\obj\Debug\CSharpQuiz.csprojResolveAssemblyReference.cache
+D:\Humber\CPAN C#\Learning_Materials_Storage\week05\CSharpQuiz\CSharpQuiz\obj\Debug\CSharpQuiz.Properties.Resources.resources
+D:\Humber\CPAN C#\Learning_Materials_Storage\week05\CSharpQuiz\CSharpQuiz\obj\Debug\CSharpQuiz.csproj.GenerateResource.Cache
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\CSharpQuiz\CSharpQuiz\bin\Debug\CSharpQuiz.exe.config
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\CSharpQuiz\CSharpQuiz\obj\Debug\CSharpQuiz.csprojResolveAssemblyReference.cache
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\CSharpQuiz\CSharpQuiz\obj\Debug\CSharpQuiz.frmQuiz.resources
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\CSharpQuiz\CSharpQuiz\obj\Debug\CSharpQuiz.Properties.Resources.resources
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\CSharpQuiz\CSharpQuiz\obj\Debug\CSharpQuiz.csproj.GenerateResource.Cache
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\CSharpQuiz\CSharpQuiz\bin\Debug\CSharpQuiz.exe
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\CSharpQuiz\CSharpQuiz\bin\Debug\CSharpQuiz.pdb
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\CSharpQuiz\CSharpQuiz\obj\Debug\CSharpQuiz.exe
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\CSharpQuiz\CSharpQuiz\obj\Debug\CSharpQuiz.pdb

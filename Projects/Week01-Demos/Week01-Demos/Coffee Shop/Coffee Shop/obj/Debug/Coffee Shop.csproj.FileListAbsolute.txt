@@ -1,0 +1,33 @@
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csprojResolveAssemblyReference.cache
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Form1.resources
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.Cache
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Week01-Demos\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Week01-Demos\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Week01-Demos\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csprojResolveAssemblyReference.cache
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Form1.resources
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.Cache
+D:\Humber\Framework Programming CPAN 2016\2017\Week 1\Week01-Demos\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+D:\Humber\Framework Programming CPAN 2016\2017\Week 1\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+D:\Humber\Framework Programming CPAN 2016\2017\Week 1\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
+D:\Humber\Framework Programming CPAN 2016\2017\Week 1\Week01-Demos\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+D:\Humber\Framework Programming CPAN 2016\2017\Week 1\Week01-Demos\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+D:\Humber\Framework Programming CPAN 2016\2017\Week 1\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csprojResolveAssemblyReference.cache
+D:\Humber\Framework Programming CPAN 2016\2017\Week 1\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Form1.resources
+D:\Humber\Framework Programming CPAN 2016\2017\Week 1\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+D:\Humber\Framework Programming CPAN 2016\2017\Week 1\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.Cache
+D:\Humber\Frame Work\Week01-Demos\Week01-Demos\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+D:\Humber\Frame Work\Week01-Demos\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+D:\Humber\Frame Work\Week01-Demos\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
+E:\Humber\Frame Work\Projects\Week01-Demos\Week01-Demos\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+E:\Humber\Frame Work\Projects\Week01-Demos\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+E:\Humber\Frame Work\Projects\Week01-Demos\Week01-Demos\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb

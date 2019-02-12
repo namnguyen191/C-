@@ -1,0 +1,10 @@
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Rent\bin\Debug\Rent.dll
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Rent\bin\Debug\Rent.pdb
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Rent\obj\Debug\Rent.csprojResolveAssemblyReference.cache
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Rent\obj\Debug\Rent.dll
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Rent\obj\Debug\Rent.pdb
+E:\Humber\Frame Work\Projects\Assignment 1\Assignment 1\Rent\bin\Debug\Rent.dll
+E:\Humber\Frame Work\Projects\Assignment 1\Assignment 1\Rent\bin\Debug\Rent.pdb
+E:\Humber\Frame Work\Projects\Assignment 1\Assignment 1\Rent\obj\Debug\Rent.csprojResolveAssemblyReference.cache
+E:\Humber\Frame Work\Projects\Assignment 1\Assignment 1\Rent\obj\Debug\Rent.dll
+E:\Humber\Frame Work\Projects\Assignment 1\Assignment 1\Rent\obj\Debug\Rent.pdb

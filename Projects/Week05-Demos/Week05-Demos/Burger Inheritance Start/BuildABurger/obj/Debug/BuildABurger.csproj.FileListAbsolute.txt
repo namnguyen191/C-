@@ -1,0 +1,61 @@
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\bin\Debug\BuildABurger.exe.config
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\bin\Debug\BuildABurger.exe
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\bin\Debug\BuildABurger.pdb
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.csprojResolveAssemblyReference.cache
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.frmBurger.resources
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.Properties.Resources.resources
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.csproj.GenerateResource.Cache
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.exe
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\obj\Debug\BuildABurger.pdb
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\bin\Debug\Burgers.dll
+C:\Users\Navpreet\Desktop\Burger\BuildABurger\bin\Debug\Burgers.pdb
+C:\Users\Navpreet\Desktop\Burger Base Class Complete\BuildABurger\bin\Debug\BuildABurger.exe.config
+C:\Users\Navpreet\Desktop\Burger Base Class Complete\BuildABurger\obj\Debug\BuildABurger.exe
+C:\Users\Navpreet\Desktop\Burger Base Class Complete\BuildABurger\obj\Debug\BuildABurger.pdb
+C:\Users\Navpreet\Desktop\Burger Base Class Complete\BuildABurger\bin\Debug\BuildABurger.exe
+C:\Users\Navpreet\Desktop\Burger Base Class Complete\BuildABurger\bin\Debug\BuildABurger.pdb
+C:\Users\Navpreet\Desktop\Burger Base Class Complete\BuildABurger\bin\Debug\Burgers.dll
+C:\Users\Navpreet\Desktop\Burger Base Class Complete\BuildABurger\bin\Debug\Burgers.pdb
+C:\Users\Navpreet\Desktop\Burger Base Class Complete\BuildABurger\obj\Debug\BuildABurger.csprojResolveAssemblyReference.cache
+C:\Users\Navpreet\Desktop\Burger Base Class Complete\BuildABurger\obj\Debug\BuildABurger.frmBurger.resources
+C:\Users\Navpreet\Desktop\Burger Base Class Complete\BuildABurger\obj\Debug\BuildABurger.Properties.Resources.resources
+C:\Users\Navpreet\Desktop\Burger Base Class Complete\BuildABurger\obj\Debug\BuildABurger.csproj.GenerateResource.Cache
+C:\Users\Navpreet\Desktop\Burger Inheritance\BuildABurger\bin\Debug\BuildABurger.exe.config
+C:\Users\Navpreet\Desktop\Burger Inheritance\BuildABurger\obj\Debug\BuildABurger.exe
+C:\Users\Navpreet\Desktop\Burger Inheritance\BuildABurger\obj\Debug\BuildABurger.pdb
+C:\Users\Navpreet\Desktop\Burger Inheritance\BuildABurger\bin\Debug\BuildABurger.exe
+C:\Users\Navpreet\Desktop\Burger Inheritance\BuildABurger\bin\Debug\BuildABurger.pdb
+C:\Users\Navpreet\Desktop\Burger Inheritance\BuildABurger\bin\Debug\Burgers.dll
+C:\Users\Navpreet\Desktop\Burger Inheritance\BuildABurger\bin\Debug\Burgers.pdb
+C:\Users\Navpreet\Desktop\Burger Inheritance\BuildABurger\obj\Debug\BuildABurger.csprojResolveAssemblyReference.cache
+C:\Users\Navpreet\Desktop\Burger Inheritance\BuildABurger\obj\Debug\BuildABurger.frmBurger.resources
+C:\Users\Navpreet\Desktop\Burger Inheritance\BuildABurger\obj\Debug\BuildABurger.Properties.Resources.resources
+C:\Users\Navpreet\Desktop\Burger Inheritance\BuildABurger\obj\Debug\BuildABurger.csproj.GenerateResource.Cache
+C:\Users\Navpreet\Desktop\Burger Inheritance Start\BuildABurger\bin\Debug\BuildABurger.exe.config
+C:\Users\Navpreet\Desktop\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.exe
+C:\Users\Navpreet\Desktop\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.pdb
+C:\Users\Navpreet\Desktop\Burger Inheritance Start\BuildABurger\bin\Debug\BuildABurger.exe
+C:\Users\Navpreet\Desktop\Burger Inheritance Start\BuildABurger\bin\Debug\BuildABurger.pdb
+C:\Users\Navpreet\Desktop\Burger Inheritance Start\BuildABurger\bin\Debug\Burgers.dll
+C:\Users\Navpreet\Desktop\Burger Inheritance Start\BuildABurger\bin\Debug\Burgers.pdb
+C:\Users\Navpreet\Desktop\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.csprojResolveAssemblyReference.cache
+C:\Users\Navpreet\Desktop\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.frmBurger.resources
+C:\Users\Navpreet\Desktop\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.Properties.Resources.resources
+C:\Users\Navpreet\Desktop\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.csproj.GenerateResource.Cache
+D:\Humber\Framework Programming CPAN 2016\Week 5\Week05-Demos\Burger Inheritance Start\BuildABurger\bin\Debug\BuildABurger.exe.config
+D:\Humber\Framework Programming CPAN 2016\Week 5\Week05-Demos\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.exe
+D:\Humber\Framework Programming CPAN 2016\Week 5\Week05-Demos\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.pdb
+D:\Humber\Framework Programming CPAN 2016\2017\Week 5\Week05-Demos\Burger Inheritance Start\BuildABurger\bin\Debug\BuildABurger.exe.config
+D:\Humber\Framework Programming CPAN 2016\2017\Week 5\Week05-Demos\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.exe
+D:\Humber\Framework Programming CPAN 2016\2017\Week 5\Week05-Demos\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.pdb
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\BuildABurger\bin\Debug\BuildABurger.exe.config
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.exe
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.pdb
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\BuildABurger\bin\Debug\BuildABurger.exe
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\BuildABurger\bin\Debug\BuildABurger.pdb
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\BuildABurger\bin\Debug\Burgers.dll
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\BuildABurger\bin\Debug\Burgers.pdb
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.csprojResolveAssemblyReference.cache
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.frmBurger.resources
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.Properties.Resources.resources
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\BuildABurger\obj\Debug\BuildABurger.csproj.GenerateResource.Cache

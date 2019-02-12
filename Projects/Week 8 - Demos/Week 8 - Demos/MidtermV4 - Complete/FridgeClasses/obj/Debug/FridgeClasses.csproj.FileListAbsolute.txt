@@ -1,0 +1,15 @@
+D:\Humber\Framework Programming CPAN 2016\2017\Midterm\MidtermV4 - Complete\FridgeClasses\bin\Debug\FridgeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\2017\Midterm\MidtermV4 - Complete\FridgeClasses\bin\Debug\FridgeClasses.pdb
+D:\Humber\Framework Programming CPAN 2016\2017\Midterm\MidtermV4 - Complete\FridgeClasses\obj\Debug\FridgeClasses.csprojResolveAssemblyReference.cache
+D:\Humber\Framework Programming CPAN 2016\2017\Midterm\MidtermV4 - Complete\FridgeClasses\obj\Debug\FridgeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\2017\Midterm\MidtermV4 - Complete\FridgeClasses\obj\Debug\FridgeClasses.pdb
+C:\Users\Amrit\Desktop\MidtermV4 - Complete\FridgeClasses\bin\Debug\FridgeClasses.dll
+C:\Users\Amrit\Desktop\MidtermV4 - Complete\FridgeClasses\bin\Debug\FridgeClasses.pdb
+C:\Users\Amrit\Desktop\MidtermV4 - Complete\FridgeClasses\obj\Debug\FridgeClasses.csprojResolveAssemblyReference.cache
+C:\Users\Amrit\Desktop\MidtermV4 - Complete\FridgeClasses\obj\Debug\FridgeClasses.dll
+C:\Users\Amrit\Desktop\MidtermV4 - Complete\FridgeClasses\obj\Debug\FridgeClasses.pdb
+D:\Humber\Framework Programming CPAN 2016\2017\Week 7\Week 8 - Demos\MidtermV4 - Complete\FridgeClasses\bin\Debug\FridgeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\2017\Week 7\Week 8 - Demos\MidtermV4 - Complete\FridgeClasses\bin\Debug\FridgeClasses.pdb
+D:\Humber\Framework Programming CPAN 2016\2017\Week 7\Week 8 - Demos\MidtermV4 - Complete\FridgeClasses\obj\Debug\FridgeClasses.csprojResolveAssemblyReference.cache
+D:\Humber\Framework Programming CPAN 2016\2017\Week 7\Week 8 - Demos\MidtermV4 - Complete\FridgeClasses\obj\Debug\FridgeClasses.dll
+D:\Humber\Framework Programming CPAN 2016\2017\Week 7\Week 8 - Demos\MidtermV4 - Complete\FridgeClasses\obj\Debug\FridgeClasses.pdb

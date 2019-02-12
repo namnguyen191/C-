@@ -1,0 +1,5 @@
+E:\Humber\Frame Work\Projects\Lab4\PropertyClasses\bin\Debug\PropertyClasses.dll
+E:\Humber\Frame Work\Projects\Lab4\PropertyClasses\bin\Debug\PropertyClasses.pdb
+E:\Humber\Frame Work\Projects\Lab4\PropertyClasses\obj\Debug\PropertyClasses.dll
+E:\Humber\Frame Work\Projects\Lab4\PropertyClasses\obj\Debug\PropertyClasses.pdb
+E:\Humber\Frame Work\Projects\Lab4\PropertyClasses\obj\Debug\PropertyClasses.csprojResolveAssemblyReference.cache

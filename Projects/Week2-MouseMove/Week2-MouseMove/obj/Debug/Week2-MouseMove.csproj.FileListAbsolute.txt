@@ -1,0 +1,9 @@
+D:\Humber\Frame Work\Projects\Week2-MouseMove\Week2-MouseMove\bin\Debug\Week2-MouseMove.exe.config
+D:\Humber\Frame Work\Projects\Week2-MouseMove\Week2-MouseMove\bin\Debug\Week2-MouseMove.exe
+D:\Humber\Frame Work\Projects\Week2-MouseMove\Week2-MouseMove\bin\Debug\Week2-MouseMove.pdb
+D:\Humber\Frame Work\Projects\Week2-MouseMove\Week2-MouseMove\obj\Debug\Week2_MouseMove.frmMouseMove.resources
+D:\Humber\Frame Work\Projects\Week2-MouseMove\Week2-MouseMove\obj\Debug\Week2_MouseMove.Properties.Resources.resources
+D:\Humber\Frame Work\Projects\Week2-MouseMove\Week2-MouseMove\obj\Debug\Week2-MouseMove.csproj.GenerateResource.Cache
+D:\Humber\Frame Work\Projects\Week2-MouseMove\Week2-MouseMove\obj\Debug\Week2-MouseMove.exe
+D:\Humber\Frame Work\Projects\Week2-MouseMove\Week2-MouseMove\obj\Debug\Week2-MouseMove.pdb
+D:\Humber\Frame Work\Projects\Week2-MouseMove\Week2-MouseMove\obj\Debug\Week2-MouseMove.csprojResolveAssemblyReference.cache

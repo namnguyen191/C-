@@ -1,0 +1,10 @@
+C:\Users\Navpreet\Desktop\Burger\Burgers\bin\Debug\Burgers.dll
+C:\Users\Navpreet\Desktop\Burger\Burgers\bin\Debug\Burgers.pdb
+C:\Users\Navpreet\Desktop\Burger\Burgers\obj\Debug\Burgers.dll
+C:\Users\Navpreet\Desktop\Burger\Burgers\obj\Debug\Burgers.pdb
+C:\Users\Navpreet\Desktop\Burger\Burgers\obj\Debug\Burgers.csprojResolveAssemblyReference.cache
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\Burgers\bin\Debug\Burgers.dll
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\Burgers\bin\Debug\Burgers.pdb
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\Burgers\obj\Debug\Burgers.csprojResolveAssemblyReference.cache
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\Burgers\obj\Debug\Burgers.dll
+E:\Humber\Frame Work\Projects\Week05-Demos\Week05-Demos\Burger Inheritance Start\Burgers\obj\Debug\Burgers.pdb

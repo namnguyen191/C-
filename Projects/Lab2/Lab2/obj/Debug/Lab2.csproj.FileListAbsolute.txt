@@ -1,0 +1,11 @@
+D:\Humber\Frame Work\Projects\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Humber\Frame Work\Projects\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Humber\Frame Work\Projects\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Humber\Frame Work\Projects\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+D:\Humber\Frame Work\Projects\Lab2\Lab2\obj\Debug\Lab2.frm1.resources
+D:\Humber\Frame Work\Projects\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Humber\Frame Work\Projects\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+D:\Humber\Frame Work\Projects\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Humber\Frame Work\Projects\Lab2\Lab2\obj\Debug\Lab2.pdb
+E:\Humber\Frame Work\Projects\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\Humber\Frame Work\Projects\Lab2\Lab2\obj\Debug\Lab2.exe

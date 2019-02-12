@@ -1,0 +1,9 @@
+E:\Humber\Frame Work\Projects\Week10-Menus\Week10-Menus\bin\Debug\Week10-Menus.exe.config
+E:\Humber\Frame Work\Projects\Week10-Menus\Week10-Menus\bin\Debug\Week10-Menus.exe
+E:\Humber\Frame Work\Projects\Week10-Menus\Week10-Menus\bin\Debug\Week10-Menus.pdb
+E:\Humber\Frame Work\Projects\Week10-Menus\Week10-Menus\obj\Debug\Week10-Menus.csprojResolveAssemblyReference.cache
+E:\Humber\Frame Work\Projects\Week10-Menus\Week10-Menus\obj\Debug\Week10_Menus.Form1.resources
+E:\Humber\Frame Work\Projects\Week10-Menus\Week10-Menus\obj\Debug\Week10_Menus.Properties.Resources.resources
+E:\Humber\Frame Work\Projects\Week10-Menus\Week10-Menus\obj\Debug\Week10-Menus.csproj.GenerateResource.Cache
+E:\Humber\Frame Work\Projects\Week10-Menus\Week10-Menus\obj\Debug\Week10-Menus.exe
+E:\Humber\Frame Work\Projects\Week10-Menus\Week10-Menus\obj\Debug\Week10-Menus.pdb

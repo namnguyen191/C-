@@ -1,0 +1,9 @@
+E:\Humber\Frame Work\Projects\Lab7,8\Lab7,8\bin\Debug\Lab7,8.exe.config
+E:\Humber\Frame Work\Projects\Lab7,8\Lab7,8\bin\Debug\Lab7,8.exe
+E:\Humber\Frame Work\Projects\Lab7,8\Lab7,8\bin\Debug\Lab7,8.pdb
+E:\Humber\Frame Work\Projects\Lab7,8\Lab7,8\obj\Debug\Lab7,8.csprojResolveAssemblyReference.cache
+E:\Humber\Frame Work\Projects\Lab7,8\Lab7,8\obj\Debug\Lab7_8.frmHouseForRent.resources
+E:\Humber\Frame Work\Projects\Lab7,8\Lab7,8\obj\Debug\Lab7_8.Properties.Resources.resources
+E:\Humber\Frame Work\Projects\Lab7,8\Lab7,8\obj\Debug\Lab7,8.csproj.GenerateResource.Cache
+E:\Humber\Frame Work\Projects\Lab7,8\Lab7,8\obj\Debug\Lab7,8.exe
+E:\Humber\Frame Work\Projects\Lab7,8\Lab7,8\obj\Debug\Lab7,8.pdb

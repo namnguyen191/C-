@@ -1,0 +1,18 @@
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre\Kilometers Per Litre\bin\Debug\Kilometers Per Litre.exe.config
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre\Kilometers Per Litre\bin\Debug\Kilometers Per Litre.exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre\Kilometers Per Litre\bin\Debug\Kilometers Per Litre.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre\Kilometers Per Litre\obj\Debug\Kilometers Per Litre.csprojResolveAssemblyReference.cache
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre\Kilometers Per Litre\obj\Debug\Kilometers_Per_Litre.frmKPL.resources
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre\Kilometers Per Litre\obj\Debug\Kilometers_Per_Litre.Properties.Resources.resources
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre\Kilometers Per Litre\obj\Debug\Kilometers Per Litre.csproj.GenerateResource.Cache
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre\Kilometers Per Litre\obj\Debug\Kilometers Per Litre.exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre\Kilometers Per Litre\obj\Debug\Kilometers Per Litre.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre - Complete\Kilometers Per Litre\bin\Debug\Kilometers Per Litre.exe.config
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre - Complete\Kilometers Per Litre\obj\Debug\Kilometers Per Litre.exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre - Complete\Kilometers Per Litre\obj\Debug\Kilometers Per Litre.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre - Complete\Kilometers Per Litre\bin\Debug\Kilometers Per Litre.exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre - Complete\Kilometers Per Litre\bin\Debug\Kilometers Per Litre.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre - Complete\Kilometers Per Litre\obj\Debug\Kilometers Per Litre.csprojResolveAssemblyReference.cache
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre - Complete\Kilometers Per Litre\obj\Debug\Kilometers_Per_Litre.frmKPL.resources
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre - Complete\Kilometers Per Litre\obj\Debug\Kilometers_Per_Litre.Properties.Resources.resources
+D:\Humber\CPAN C#\Learning_Materials_Storage\week02\Week02-Demos\Kilometers Per Litre - Complete\Kilometers Per Litre\obj\Debug\Kilometers Per Litre.csproj.GenerateResource.Cache

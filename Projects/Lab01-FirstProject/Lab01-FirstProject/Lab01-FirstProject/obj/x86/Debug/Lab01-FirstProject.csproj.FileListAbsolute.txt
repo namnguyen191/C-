@@ -1,0 +1,8 @@
+D:\Humber\Frame Work\Projects\Lab01-FirstProject\Lab01-FirstProject\Lab01-FirstProject\obj\x86\Debug\Lab01-FirstProject.csprojResolveAssemblyReference.cache
+D:\Humber\Frame Work\Projects\Lab01-FirstProject\Lab01-FirstProject\Lab01-FirstProject\obj\x86\Debug\Lab01_FirstProject.Form1.resources
+D:\Humber\Frame Work\Projects\Lab01-FirstProject\Lab01-FirstProject\Lab01-FirstProject\obj\x86\Debug\Lab01_FirstProject.Properties.Resources.resources
+D:\Humber\Frame Work\Projects\Lab01-FirstProject\Lab01-FirstProject\Lab01-FirstProject\obj\x86\Debug\Lab01-FirstProject.csproj.GenerateResource.Cache
+D:\Humber\Frame Work\Projects\Lab01-FirstProject\Lab01-FirstProject\Lab01-FirstProject\bin\Debug\Lab01-FirstProject.exe
+D:\Humber\Frame Work\Projects\Lab01-FirstProject\Lab01-FirstProject\Lab01-FirstProject\bin\Debug\Lab01-FirstProject.pdb
+D:\Humber\Frame Work\Projects\Lab01-FirstProject\Lab01-FirstProject\Lab01-FirstProject\obj\x86\Debug\Lab01-FirstProject.exe
+D:\Humber\Frame Work\Projects\Lab01-FirstProject\Lab01-FirstProject\Lab01-FirstProject\obj\x86\Debug\Lab01-FirstProject.pdb

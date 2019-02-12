@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Midterm.Compact">
+    <Position X="1.5" Y="4" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Compact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Midterm.frmRefrigerator" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAACIBAESAEAJBAAACAgAACCDAABABAAFAMAABAAAE=</HashCode>
+      <FileName>frmRefrigerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Midterm.FullSize">
+    <Position X="7.5" Y="4" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>FullSize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Midterm.Program" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Midterm.Refrigerator">
+    <Position X="5" Y="0.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAEAAACAAAAAAAIAAAACAAAAAA=</HashCode>
+      <FileName>Refrigerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Midterm.Properties.Resources" Collapsed="true">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Midterm.Properties.Settings" Collapsed="true">
+    <Position X="12.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

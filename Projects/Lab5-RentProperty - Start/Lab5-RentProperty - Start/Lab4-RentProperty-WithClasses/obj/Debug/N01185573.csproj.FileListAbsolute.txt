@@ -1,0 +1,11 @@
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Lab4-RentProperty-WithClasses\bin\Debug\Lab4-RentProperty-WithClasses.exe.config
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Lab4-RentProperty-WithClasses\obj\Debug\Lab4-RentProperty-WithClasses.exe
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Lab4-RentProperty-WithClasses\obj\Debug\Lab4-RentProperty-WithClasses.pdb
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Lab4-RentProperty-WithClasses\bin\Debug\Lab4-RentProperty-WithClasses.exe
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Lab4-RentProperty-WithClasses\bin\Debug\Lab4-RentProperty-WithClasses.pdb
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Lab4-RentProperty-WithClasses\bin\Debug\Rent.dll
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Lab4-RentProperty-WithClasses\bin\Debug\Rent.pdb
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Lab4-RentProperty-WithClasses\obj\Debug\N01185573.csprojResolveAssemblyReference.cache
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Lab4-RentProperty-WithClasses\obj\Debug\Lab4_RentProperty_WithClasses.N01185573.resources
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Lab4-RentProperty-WithClasses\obj\Debug\Lab4_RentProperty_WithClasses.Properties.Resources.resources
+E:\Humber\Frame Work\Projects\Lab5-RentProperty - Start\Lab5-RentProperty - Start\Lab4-RentProperty-WithClasses\obj\Debug\N01185573.csproj.GenerateResource.Cache

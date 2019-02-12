@@ -1,0 +1,25 @@
+C:\Users\Navpreet\Desktop\Burger\Burgers\bin\Debug\Burgers.dll
+C:\Users\Navpreet\Desktop\Burger\Burgers\bin\Debug\Burgers.pdb
+C:\Users\Navpreet\Desktop\Burger\Burgers\obj\Debug\Burgers.dll
+C:\Users\Navpreet\Desktop\Burger\Burgers\obj\Debug\Burgers.pdb
+C:\Users\Navpreet\Desktop\Burger\Burgers\obj\Debug\Burgers.csprojResolveAssemblyReference.cache
+C:\Users\Navpreet\Desktop\Burger Inheritance Start - Copy\Burgers\bin\Debug\Burgers.dll
+C:\Users\Navpreet\Desktop\Burger Inheritance Start - Copy\Burgers\bin\Debug\Burgers.pdb
+C:\Users\Navpreet\Desktop\Burger Inheritance Start - Copy\Burgers\obj\Debug\Burgers.csprojResolveAssemblyReference.cache
+C:\Users\Navpreet\Desktop\Burger Inheritance Start - Copy\Burgers\obj\Debug\Burgers.dll
+C:\Users\Navpreet\Desktop\Burger Inheritance Start - Copy\Burgers\obj\Debug\Burgers.pdb
+C:\Users\Navpreet\Desktop\Burger Inheritance Complete\Burgers\bin\Debug\Burgers.dll
+C:\Users\Navpreet\Desktop\Burger Inheritance Complete\Burgers\bin\Debug\Burgers.pdb
+C:\Users\Navpreet\Desktop\Burger Inheritance Complete\Burgers\obj\Debug\Burgers.csprojResolveAssemblyReference.cache
+C:\Users\Navpreet\Desktop\Burger Inheritance Complete\Burgers\obj\Debug\Burgers.dll
+C:\Users\Navpreet\Desktop\Burger Inheritance Complete\Burgers\obj\Debug\Burgers.pdb
+D:\Humber\Framework Programming CPAN 2016\Week 5\Week05-Demos\Burger Inheritance Complete\Burgers\obj\Debug\Burgers.csprojResolveAssemblyReference.cache
+D:\Humber\Framework Programming CPAN 2016\Week 5\Week05-Demos\Burger Inheritance Complete\Burgers\obj\Debug\Burgers.dll
+D:\Humber\Framework Programming CPAN 2016\Week 5\Week05-Demos\Burger Inheritance Complete\Burgers\bin\Debug\Burgers.dll
+D:\Humber\Framework Programming CPAN 2016\Week 5\Week05-Demos\Burger Inheritance Complete\Burgers\bin\Debug\Burgers.pdb
+D:\Humber\Framework Programming CPAN 2016\Week 5\Week05-Demos\Burger Inheritance Complete\Burgers\obj\Debug\Burgers.pdb
+D:\Humber\Framework Programming CPAN 2016\2017\Week 5\Week05-Demos\Burger Inheritance Complete\Burgers\bin\Debug\Burgers.dll
+D:\Humber\Framework Programming CPAN 2016\2017\Week 5\Week05-Demos\Burger Inheritance Complete\Burgers\bin\Debug\Burgers.pdb
+D:\Humber\Framework Programming CPAN 2016\2017\Week 5\Week05-Demos\Burger Inheritance Complete\Burgers\obj\Debug\Burgers.csprojResolveAssemblyReference.cache
+D:\Humber\Framework Programming CPAN 2016\2017\Week 5\Week05-Demos\Burger Inheritance Complete\Burgers\obj\Debug\Burgers.dll
+D:\Humber\Framework Programming CPAN 2016\2017\Week 5\Week05-Demos\Burger Inheritance Complete\Burgers\obj\Debug\Burgers.pdb
